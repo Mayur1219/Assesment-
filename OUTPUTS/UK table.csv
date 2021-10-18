@@ -1,0 +1,6 @@
+﻿Customer_Name,Customer_Id,Open_Date,Last_Consulted_Date,Vaccination_type,Dr_Name,State,Country,DOB,Active
+Jacob,10,25-07-2018,30-07-2018,MXV  ,Andrew,LI   ,UK   ,07-07-1999,No 
+Marshal,11,24-07-2019,05-03-2020,MCX  ,Andrew,LI   ,UK   ,14-08-1998,Yes
+Emma,17,02-07-2020,10-07-2020,MVV  ,Andrew,MAN  ,UK   ,29-01-2000,Yes
+,,,,,,,,,
+,,,,,,,,,

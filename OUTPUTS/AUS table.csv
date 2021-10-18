@@ -1,0 +1,6 @@
+﻿Customer_Name,Customer_Id,Open_Date,Last_Consulted_Date,Vaccination_type,Dr_Name,State,Country,DOB,Active
+Joma,4,09-08-2017,15-08-2017,MVX  ,Chuck,VIC  ,AU   ,01-01-1997,No 
+Robin,8,09-08-2017,17-08-2017,MCV  ,Chuck,VIC  ,AU   ,10-12-1996,No 
+Mike,15,05-05-2019,11-05-2019,MCX  ,Chuck,VIC  ,AU   ,12-06-1999,Yes
+Olivia,16,09-08-2018,16-08-2018,MVV  ,Chuck,VIC  ,AU   ,12-09-1999,No 
+Sophia,20,25-06-2019,20-06-2019,MCX  ,Chuck,VIC  ,AU   ,18-02-1999,Yes

@@ -1,0 +1,6 @@
+﻿Customer_Name,Customer_Id,Open_Date,Last_Consulted_Date,Vaccination_type,Dr_Name,State,Country,DOB,Active
+Alex,1,15-01-2015,21-01-2015,MVX  ,Paul,SA   ,USA  ,04-02-1998,Yes
+John,2,06-09-2015,11-09-2015,MCV  ,Paul,CA   ,USA  ,06-06-1999,Yes
+Matt,6,29-05-2018,04-06-2018,MXV  ,Paul,NY   ,USA  ,12-08-2000,Yes
+Sergio,12,12-09-2016,18-09-2016,MCV  ,Paul,TX   ,USA  ,23-05-1997,No 
+Jonathan,14,30-11-2014,06-12-2014,MXX  ,Paul,LA   ,USA  ,09-10-1999,Yes

@@ -1,0 +1,6 @@
+﻿Customer_Name,Customer_Id,Open_Date,Last_Consulted_Date,Vaccination_type,Dr_Name,State,Country,DOB,Active
+Sumith,3,23-11-2016,29-11-2016,MVX  ,Reddy,KA   ,IND  ,16-08-1998,Yes
+Atherv,7,06-06-2019,15-06-2019,MXV  ,Reddy,MH   ,IND  ,04-02-2000,Yes
+Gaurav,9,07-06-2020,14-06-2020,MVX  ,Reddy,MH   ,IND  ,13-10-1999,Yes
+Vikrant,13,13-10-2019,20-10-2019,MCX  ,Reddy,RA   ,IND  ,23-10-1999,Yes
+Sakshi,19,29-12-2020,05-01-2021,MCV  ,Reddy,DL   ,IND  ,27-08-1999,No 
